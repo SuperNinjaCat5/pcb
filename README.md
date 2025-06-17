@@ -1,6 +1,6 @@
 # 🐱 PCB Cat 🐱
 
-When you press the button located at the cat's nose, its eyes (two LEDs) light up, forming a glowing smile. The cat’s grin is etched into the PCB design itself and brought to life by the LEDs.
+When you press the button located at the cat's nose, its eyes (two LEDs) light up. 
 
 ---
 
