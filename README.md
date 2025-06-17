@@ -1,7 +1,5 @@
 # 🐱 PCB Cat 🐱
 
-Designed during a soldering workshop, PCB Cat is a simple, cat-shaped circuit board that brings a smile to your face — literally!
-
 When you press the button located at the cat's nose, its eyes (two LEDs) light up, forming a glowing smile. The cat’s grin is etched into the PCB design itself and brought to life by the LEDs.
 
 ---
