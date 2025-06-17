@@ -19,3 +19,9 @@ How It Works:
 Power Source → Button (nose) → LEDs (eyes) → Resistors → Ground
 
 ---
+
+Credit/Design:
+
+-Made at BB&N
+-For a hackathon workshop
+-Thank you https://solder.hackclub.com/
