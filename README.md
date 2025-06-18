@@ -1,12 +1,12 @@
-# 🐱 PCB Cat 🐱
+# 🐱 PCB Smile 🐱
 
-When you press the button located at the cat's nose, its eyes (two LEDs) light up. 
+When you press the button located at the persons's nose, its eyes (two LEDs) light up. 
 
 ---
 
 Info
 
-- Custom cat-shaped PCB
+- Custom face-shaped PCB
 - Has two LEDs as glowing eyes
 - A smile formed with silkscreen art and LED placement
 - Nose button that activates the LEDs
@@ -29,4 +29,3 @@ Credit/Design:
 
 ---
 
-Images:
