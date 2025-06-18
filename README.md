@@ -24,10 +24,11 @@ Credit/Design:
 
 -Made at BB&N
 -For a hackathon workshop
--Thank you https://solder.hackclub.com/
+-Thanks to [solder.hackclub.com](https://solder.hackclub.com/)
 
-![Game Screenshot](screenshot (81).png)
-![Game Screenshot](screenshot (82).png)
-![Game Screenshot](screenshot (83).png)
+![PCB Photo 1](screenshot%20(81).png)  
+![PCB Photo 2](screenshot%20(82).png)  
+![PCB Photo 3](screenshot%20(83).png)
+
 ---
 
