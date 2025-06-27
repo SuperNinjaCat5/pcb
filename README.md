@@ -30,6 +30,5 @@ Credit/Design:
 ![PCB Photo 2](photos/pcbphoto2.png)  
 ![PCB Photo 3](photos/pcbphoto3.png)
 
-![alt text](photos/pcbphoto1.png)
 ---
 
