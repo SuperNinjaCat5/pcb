@@ -12,6 +12,8 @@ Info
 - Nose button that activates the LEDs
 - Simple circuit
 
+(2x red led, 2x 220 resistor, 1x push button, 1x battery cell, 1x pcb)
+
 ---
 
 How It Works:
