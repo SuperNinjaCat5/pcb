@@ -26,10 +26,10 @@ Credit/Design:
 -For a hackathon workshop
 -Thanks to [solder.hackclub.com](https://solder.hackclub.com/)
 
-![PCB Photo 1](pcb-photo-1.png)  
-![PCB Photo 2](pcb-photo-2.png)  
-![PCB Photo 3](pcb-photo-3.png)
+![PCB Photo 1](photos/pcbphoto1.png)  
+![PCB Photo 2](photos/pcbphoto2.png)  
+![PCB Photo 3](photos/pcbphoto3.png)
 
-
+![alt text](photos/pcbphoto1.png)
 ---
 
